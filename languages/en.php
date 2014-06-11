@@ -4,7 +4,7 @@
  *
  */
 
-add_translation('en', array(
+return array(
 	'widgets:my_friends:title' => "My Friends",
 	'widgets:my_friends:description' => "Display your friends and/or followers",
 	'followers' => "Followers",
@@ -12,4 +12,4 @@ add_translation('en', array(
 	'friends:show_numbers' => "Show numbers",
 	'friends:nobody' => "Not friends and followers yet",
 	'friends:show_numbers:not' => "no",
-));
+);
