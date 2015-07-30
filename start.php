@@ -5,9 +5,9 @@
  *
  * @author RiverVanRain
  * @license http://www.gnu.org/licenses/gpl-2.0.html GNU General Public License v2
- * @copyright (c) weborganiZm 2k14
+ * @copyright (c) organiZm 2k14
  *
- * @link http://weborganizm.org/crewz/p/1983/personal-net
+ * @link http://o.wzm.me/crewz/p/1983/personal-net
  *
  */
 elgg_register_event_handler('init', 'system', 'my_friends_init');
