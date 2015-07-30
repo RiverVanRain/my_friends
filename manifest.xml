@@ -6,8 +6,8 @@
 	<version>1.2</version>
 	<category>widgets</category>
 	<description>Extended Friends Widget: adds the option for users to display widgets of friends and/or followers on own profile's pages</description>
-	<website>http://weborganizm.org/crewz/p/1983/personal-net</website>
-	<copyright>(c) weborganiZm 2k14</copyright>
+	<website>http://o.wzm.me/crewz/p/1983/personal-net</website>
+	<copyright>(c) organiZm 2k14</copyright>
 	<license>GNU General Public License version 2</license>
 	<requires>
 		<type>elgg_release</type>
